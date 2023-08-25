@@ -1,4 +1,4 @@
-# 📘 Prompt Optimization with the Adapted SCRIB Methodology
+# 📘 Prompt Optimization with the Adapted SCRIBE Methodology
 
 ## 📌 Description
 This presentation aims to educate on an adapted version of the SCRIBE methodology, tailored specifically for drafting and optimizing prompts in GPT chats. It's important to note that while this project is based on the SCRIBE methodology, it has been adapted for educational purposes.
